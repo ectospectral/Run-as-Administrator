@@ -7,3 +7,13 @@
     position: relative;
     padding-left: 20%;
 }
+.no-choice{
+    text-align: center;
+    position: relative;
+    padding-left: 32%;
+}
+.end-choice{
+    text-align: center;
+    position: relative;
+    padding-left: 47%;
+}
